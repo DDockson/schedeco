@@ -9,15 +9,19 @@ sampletoken.json을 복사한 뒤 token.json으로 이름을 바꿔, 자신의 �
 
 ## 작동 원리
 ![image](https://github.com/user-attachments/assets/3f3ba45f-fc20-425b-bb24-762acc9621bb)
+
 프로젝트와 할 일을 입력받는다.
 
 ![image](https://github.com/user-attachments/assets/3f3b1f59-8bf3-4754-a96e-39f3bcfcf651)
+
 같은 프로젝트에 또다른 할 일을 추가할 수 있다.
 
 ![image](https://github.com/user-attachments/assets/b0130c36-a808-4125-aa4f-46666da72240)
+
 또다른 프로젝트에 새로운 할 일을 추가할 수 있다.
 
 ![image](https://github.com/user-attachments/assets/127e58b8-c036-4737-a4f0-c791336bae80)
+
 만약 한 프로젝트에 한 일이 전부 완료된 경우, 해당 프로젝트는 삭제된다.
 
 ## 주 사용 기술
