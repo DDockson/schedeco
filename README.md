@@ -1,5 +1,5 @@
 sampletoken.json을 복사한 뒤 token.json으로 이름을 바꿔, 자신의 네이버 API client_id와 client_secret, 디스코드 봇의 토큰을 입력하여주시기 바랍니다.
-# discordnews
+# schedeco
 2024년 2학기 자료구조 수행평가를 위해 제작하게 된 프로젝트입니다.
 총 제작기간: 1시간 20분
 
